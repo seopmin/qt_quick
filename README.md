@@ -1,2 +1,2 @@
 ### qt_quick
-The repositoriy for code reuse
+The repository for code reuse

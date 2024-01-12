@@ -6,7 +6,7 @@
 굳이 이렇게…? 할 필요가 있나? data edit, get도 Model에서 할거면 그냥 둘이 합치는 게 더 직관적일 듯
 > 
 
-![Untitled](ExternalDataSource%20dad6561f14d04c79b9c685a416e172cc/Untitled.png)
+![Untitled](./architecture.png)
 
 ### In datasource file
 
